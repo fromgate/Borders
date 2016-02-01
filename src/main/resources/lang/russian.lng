@@ -1,0 +1,36 @@
+lng_load_fail: Failed to load languages from file. Default message used
+lng_save_fail: Не удалось сохранить файл перевода
+lng_print_fail: Не удалось распечать сообщение %1%. Получать - null.
+lng_config: '[MESSAGES] Сообщений: %1% Язык: %2% Режим отладки: %3%'
+cmd_brd: Команда плагина Borders (наберите /border help)
+p1_selected: 'Выбрана точка #1: %1%'
+p2_selected: 'Выбрана точка #2: %1%'
+command_registered: 'Команда зарегистрирована: %1%'
+cmd_brd_add: '/border add <Id> - добавить новую границу'
+cmd_brd_sel: '/border p1 (/border p2) - выделить точку'
+cmd_brd_sel2: '/border p1 x z (/border p2 x z) - выбрать точку (по координатам)'
+cmd_brd_list: '/border list [страница] - показать перечень точек'
+cmd_brd_remove: '/border remove <Id> - удалить границу'
+cmd_brd_check: '/border check - отобразить название всех границ вокруг вас'
+cmd_brd_walk: '/border walk - включить режим игнорирования границ'
+cmd_brd_reload: '/border reload - перезагрузить настройки'
+cmd_hlp: '/border help - Ээээ...'
+add_fail_need_sel: 'Не удалось добавить границу %1%! Нужно выделить две точки!'
+invalid_name: 'Недопустимое название. Используйте символы: %1%'
+add_ok: 'Добавлена граница: %1%'
+brd_lst_title: Список границ
+footer: 'Страница [%1% / %1%]'
+brd_lst_empty: 'Границы не определены!'
+brd_unknown: 'Неизвестная граница: %1%'
+brd_removed: 'Граница %1% удалена!'
+hlp_title: Помощь
+brd_tp_spawn: 'Вы телепортированы на спавн!'
+brd_forbid_move: 'Вы достигли границы! Дальнейшее продвижение запрещено!'
+brd_forbid_break: 'Запрещено ломать блоки за пределами границы!'
+brd_forbid_build: 'Запрещено устанавливать блоки за пределами границы!'
+walker_on: 'Режим вездехода включен! Вы можете ходить везде где хочется!'
+walker_off: 'Режим вездехода выключен'
+add_fail_exist: 'Не удалось добавить границу. Идентификатор %1% уже используется!'
+chk_not_found: 'Вокруг Вас нет границ'
+chk_found: 'Список границ вокруг Вас'
+brd_reloaded: 'Список границ перезагружен. Загружено %1% границ'
